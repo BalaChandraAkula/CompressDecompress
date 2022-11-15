@@ -7,6 +7,16 @@
 ### - Was able to compress a file of size __ to ___ .
 ### - Made the GUI using java swing and awt.
 
+##Screenshort
+
+![Screenshot_20221115_164704](https://user-images.githubusercontent.com/115984987/201906908-727fe29b-37fc-492c-938d-adaf986371a5.png)
+
+### Selecting the File Path
+
+![Screenshot_20221115_164741](https://user-images.githubusercontent.com/115984987/201906937-5551c66b-2556-40af-8ece-7cba83706362.png)
+
+
+
 ## Prerequisites
 
 ### To run the Application, you'll have to have these installed
