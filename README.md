@@ -1,6 +1,6 @@
 # Compress Decompress
 
-##About the project :
+## About the project :
 
 ### This system was made in Java.
 ### - Worked on making a maze solver GUI where user can input a maze and specify the target point user wants to find path by a single mouse click. 
