@@ -7,8 +7,9 @@
 ### - Was able to compress a file of size __ to ___ .
 ### - Made the GUI using java swing and awt.
 
-## Author : Bala Chandra Akula
-## LinkedIn : [Link](https://www.linkedin.com/in/bala-chandra-akula-5808b3171/)
+## Author :
+## Bala Chandra Akula : [LinkedIn](https://www.linkedin.com/in/bala-chandra-akula-5808b3171/)
+
 
 
 # Screenshort
