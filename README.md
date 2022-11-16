@@ -7,11 +7,15 @@
 ### - Was able to compress a file of size __ to ___ .
 ### - Made the GUI using java swing and awt.
 
-##Screenshort
+## Author : Bala Chandra Akula
+## LinkedIn : [Link](https://www.linkedin.com/in/bala-chandra-akula-5808b3171/)
+
+
+# Screenshort
 
 ![Screenshot_20221115_164704](https://user-images.githubusercontent.com/115984987/201906908-727fe29b-37fc-492c-938d-adaf986371a5.png)
 
-### Selecting the File Path
+## Selecting the File Path
 
 ![Screenshot_20221115_164741](https://user-images.githubusercontent.com/115984987/201906937-5551c66b-2556-40af-8ece-7cba83706362.png)
 
